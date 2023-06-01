@@ -1,0 +1,18 @@
+{
+  "name": "study-localstack",
+  "version": "1.0.0",
+  "description": "test",
+  "main": "index.js",
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@aws-sdk/client-dynamodb": "^3.335.0",
+    "aws-cdk-lib": "^2.0.0",
+    "aws-sdk": "^2.1077.0",
+    "constructs": "^10.0.0",
+    "source-map-support": "^0.5.16"
+  },
+  "directories": {
+    "lib": "lib"
+  }
+}
